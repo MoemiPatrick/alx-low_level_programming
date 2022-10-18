@@ -2,11 +2,8 @@
 
 
 /**
-
  * main - This program prints the phrase _putchar
-
  * Return: 0
-
  */
 
 int main(void)
